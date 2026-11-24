@@ -1,0 +1,6 @@
+*.o
+*.mod
+exe
+*.dat
+!parametres.dat
+.DS_Store
